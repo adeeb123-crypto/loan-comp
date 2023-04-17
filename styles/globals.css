@@ -15,7 +15,7 @@ a {
   box-sizing: border-box;
 }
 
-/* @font-face {
+@font-face {
   font-family: 'DINPro';
   src: url('../assets/fonts/DINPro-Medium.eot');
   src: url('../assets/fonts/DINPro-Medium.eot?#iefix') format('embedded-opentype'),
@@ -25,7 +25,7 @@ a {
   font-weight: 500;
   font-style: normal;
   font-display: swap;
-} */
+}
 
 
 
